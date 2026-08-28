@@ -1,0 +1,6 @@
+{
+  "name": "IME Zero-Touch Digital Admission Portal",
+  "description": "A modern, paperless, contactless, and trackable 9-step digital admission and student management framework for IME.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
